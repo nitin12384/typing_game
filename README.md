@@ -12,4 +12,5 @@ A simple Typing game with GUI which helps you to practice typing by providing ra
 
 ## Screeenshots
 
+## Demo and Explanation video
 
