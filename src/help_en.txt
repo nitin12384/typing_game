@@ -1,0 +1,29 @@
+This is a simple typing game developed to test your typing skills.
+
+1. How to play
+
+-> In the main menu, click on the the play button.
+-> Then a new Window will appear with 'Play' and 'Back' Button.
+-> Then click on 'Play' Button.
+-> Now a sentence will appear in the middle of the screen,
+-> Start typing the alphabets specified by grey/red color
+
+-> After you finish typing, you speed and accuracy is displayed.
+
+2. How is score calculated
+-> Expected time duaration between each keypress in 100 msec.
+-> You get score as (100/YOUR_TIME)*10
+-> On every wrong keypress you get score '-10'
+
+3. How to reset my high scores
+-> Click on the 'Settings' Icon on the right side of toolbar.
+-> In the following window, click on the reset button.
+
+Typing Pro version 1.0
+Released on : 28th July 2021
+Developed by : Nitin Kumar
+
+Connect with me
+Email : nknitinkumar12384@gmail.com
+
+
