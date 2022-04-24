@@ -3,6 +3,8 @@ A simple Typing game with GUI which helps you to practice typing by providing ra
 
 ## Requirements to build the application
 
+You need to have Qt creator installed.
+
 
 ## How to build the application
 
@@ -10,7 +12,13 @@ A simple Typing game with GUI which helps you to practice typing by providing ra
 
 ## Usage Details
 
-## Screeenshots
+## Screeenshots and Demo
 
-## Demo and Explanation video
+A demo of initial version https://www.youtube.com/watch?v=7pZhDTyZxzc 
+
+Screenshot 1 
+
+<img src="./images/SS1.png" alt="Screenshot 1 of typing game" />
+
+
 
