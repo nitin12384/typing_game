@@ -16,9 +16,10 @@ You need to have Qt creator installed.
 
 A demo of initial version https://www.youtube.com/watch?v=7pZhDTyZxzc 
 
-Screenshot 1 
+Screenshots
 
 <img src="./images/SS1.png" alt="Screenshot 1 of typing game" />
+<img src="./images/SS2.png" alt="Screenshot 2 of typing game" />
 
 
 
