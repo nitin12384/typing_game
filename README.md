@@ -14,7 +14,7 @@ You need to have Qt creator installed.
 
 ## Screeenshots and Demo
 
-A demo of initial version https://www.youtube.com/watch?v=7pZhDTyZxzc 
+A demo of current project (Video taken on 25th December 2021) https://drive.google.com/file/d/1hJ2KLqgpEESGA4dvcWlW782P3U_sbi00/view?usp=sharing
 
 Screenshots
 
