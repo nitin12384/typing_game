@@ -5,10 +5,13 @@ A simple Typing game with GUI which helps you to practice typing by providing ra
 
 You need to have Qt creator installed.
 
+## How to run the application
 
-## How to build the application
+1. Create a new project in Qt Creator. Type : C++ Desktop Application(Windows)
+2. Import the given files in Qt.
+3. Build and run the project
 
-... Will write that soon. (Current deadline : 31st december 2021)
+(Further detailed instructions will be provided soon)
 
 ## Usage Details
 
