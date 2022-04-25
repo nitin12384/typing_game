@@ -20,6 +20,7 @@ Screenshots
 
 <img src="./images/SS1.png" alt="Screenshot 1 of typing game" />
 <img src="./images/SS2.png" alt="Screenshot 2 of typing game" />
+<img src="./images/SS3.png" alt="Screenshot 3 of typing game" />
 
 
 
